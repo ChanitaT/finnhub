@@ -1,3 +1,6 @@
 stock_symbol,percentage_change,current_price,last_close_price
-AAPL,-1.9627,149.35,150.96
-AMZN,-4.0962,115.66,116.0
+AAPL,-3.0465,144.8,148.07
+AMZN,-4.0636,110.96,113.92
+NFLX,-0.5626,296.94,298.33
+META,-24.5571,97.94,97.975
+GOOGL,-2.8547,92.22,94.52
